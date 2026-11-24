@@ -1,0 +1,6 @@
+{
+  "name": "Cineva",
+  "description": "Aplikasi penemuan film untuk penonton Indonesia dengan nuansa lobi bioskop malam hari.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
